@@ -6,3 +6,4 @@ This list has consists of:
 * sentence 1
 * sentence 2
 * sentence 3
+Edining on github
